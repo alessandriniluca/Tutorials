@@ -2,7 +2,7 @@
 ENGLISH-ITALIANO
 
 ENGLISH:
-This repository contains the code of the tutorial I write on my site. These tutorials are made for beginners in many cases. Because of that, somewhere I may write some "unoptimized" code in order to let it be more readable for everyone, from the person who's writing his first program, to the most expert one.
+This repository contains the code of the tutorial I write on my website. These tutorials are made for beginners in many cases. Because of that, somewhere I may write some "unoptimized" code in order to let it be more readable for everyone, from the person who's writing his first program, to the most expert one.
 If you want to use this code, I kindly ask to put some references or attributions to me ;) This is not required, but is really appreciated!
 
 ITALIANO:
